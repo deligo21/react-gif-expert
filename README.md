@@ -1,5 +1,9 @@
-yarn create vite
+# GifExpertApp
 
-yarn
+- Comandos para iniciar un proyecto en React con Vite
 
-yarn dev
+    `yarn create vite`
+
+    `yarn`
+
+    `yarn dev`
